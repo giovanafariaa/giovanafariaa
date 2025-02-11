@@ -1,6 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6793F7&width=435&lines=Olá!%2C+Eu+Sou+Giovana+Faria.;Bem+Vindo(a)+ao+meu+perfil+no+GitHub!+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF007F&width=435&lines=Olá!%2C+Eu+Sou+Giovana+Faria.;Bem+Vindo(a)+ao+meu+perfil+no+GitHub!+)](https://git.io/typing-svg)
 
-<img src="https://media.giphy.com/media/l3V0megwbBeETMgZa/giphy.gif?cid=790b7611v7gt4o42oew83auylfzugw4yl3kd4xt17ywx1t76&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Pixel Art" align="right" width="200">
+
 
 
 ---
