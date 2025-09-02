@@ -36,8 +36,6 @@
 
 ---
 
-## 🚀 Projetos em Destaque
-- 📄 **Currículo**: [Clicando aqui você consegue baixar meu currículo em PDF!]()
 
 ---
 
