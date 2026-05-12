@@ -6,7 +6,7 @@
 ---
 
 ## Sobre mim
-🎓 Tenho 17 anos e sou atualmente formada no Ensino Médio e Técnico em Informática no Colégio Cotemig, e cursando a graduação em Engenharia de Software. Estou desenvolvendo minhas habilidades em programação, sempre buscando aprender mais e me envolver em projetos desafiadores.
+🎓 Tenho 18 anos e sou atualmente formada no Ensino Médio e Técnico em Informática no Colégio Cotemig, e cursando a graduação em Engenharia de Software. Estou desenvolvendo minhas habilidades em programação, sempre buscando aprender mais e me envolver em projetos desafiadores.
 
 🌱 Atualmente, estou montando meu portfólio e explorando projetos em HTML/CSS, JavaScript e Java, com o objetivo de fortalecer minha base técnica e compartilhar meu progresso.
 
